@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @lymagics
-- 👀 I’m interested in Cryptography and Machine Learning
-- 🌱 I’m currently learning Python and C
+<pre>
+def main():
+	print('Hi, I’m @lymagics')
+	print('I’m interested in Cryptography and Machine Learning')
+	print('I’m currently learning Python and C')
+
+
+if __name__ == '__main__':
+	main()
+</pre>
 
 
 <!---
